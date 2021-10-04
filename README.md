@@ -1,5 +1,5 @@
 # sketch2face
-An extension of https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/. 
+An extension of https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation. 
 The theme of the project is as follows:
 1. The user draws a sketch of a human face using mouse as an input.
 2. That input sketch is taken as an input to the pix2pix GAN.
