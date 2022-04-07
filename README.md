@@ -12,4 +12,3 @@ Once the faces are generated put them in a folder and use generate_face_edges.ip
 Set the path_labels variable to the face images folder and set the path_write to the path you want to store the edge images.
 Once the file is run a folder with the edge images is created. And now the pix2pix model is ready to train.
 
-# Training
